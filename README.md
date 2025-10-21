@@ -2,7 +2,6 @@
 
 🎯 **AI & Machine Learning Software Engineer**  
 🚀 Passionate about building intelligent systems that learn and adapt.  
-💡 Currently working on: [NamerOne](https://github.com/laoluwa20/NamerOne)
 
 ---
 
@@ -23,8 +22,8 @@
 
 ### 📊 GitHub Stats
 
-![Ola's GitHub stats](https://github-readme-stats.vercel.app/api?username=laoluwa20&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=laoluwa20&layout=compact&theme=radical)
+![Ola's GitHub stats](https://github-readme-stats.vercel.app/api?username=laoluwa20&show_icons=true&theme=radical&count_private=true&hide_title=false&include_all_commits=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=laoluwa20&layout=compact&theme=radical&langs_count=3&hide=html,css,javascript)
 
 ---
 
@@ -33,18 +32,13 @@
 
 ---
 
-### 📈 Contribution Graph
-[![Ola's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=laoluwa20&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+### 📈 Contribution Graph (This Year)
+[![Ola's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=laoluwa20&theme=react-dark&hide_border=true&area=true&radius=5&width=600&height=150)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
 ### 🏆 GitHub Trophies
 ![trophy](https://github-profile-trophy.vercel.app/?username=laoluwa20&theme=dracula&margin-w=15)
-
----
-
-### ✨ Fun Fact
-> “AI is not just the future — it’s the present accelerating the future.” 🚀
 
 ---
 
